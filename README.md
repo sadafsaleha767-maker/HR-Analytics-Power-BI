@@ -37,4 +37,10 @@ The dashboard helps analyze employee data, attrition, salary, age, department, j
 The objective of this project is to understand employee data and identify important HR trends and attrition-related insights using Power BI.
 
 ## Conclusion
-This dashboard provides an interactive way to analyze employee data and supports better understanding of HR and attrition trends.
+This dashboard provides an interactive way to analyze employee data and supports better understanding of HR and attrition trends  ## Dashboard Preview
+
+### Page 1 – HR Overview
+![HR Overview](HR-Overview.png)
+
+### Page 2 – Attrition Analysis
+![Attrition Analysis](Attrition-Analysis.png)
