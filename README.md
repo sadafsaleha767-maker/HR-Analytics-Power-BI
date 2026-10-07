@@ -38,9 +38,7 @@ The objective of this project is to understand employee data and identify import
 
 ## Conclusion
 This dashboard provides an interactive way to analyze employee data and supports better understanding of HR and attrition trends  ## Dashboard Preview
-
-### Page 1 – HR Overview
-![HR Overview](HR-Overview.png)
+![HR Overview](HR-Dashboard-Page-1.png.png)
 
 ### Page 2 – Attrition Analysis
-![Attrition Analysis](Attrition-Analysis.png)
+![Attrition Analysis](HR-Dashboard-Page-2.png.png)
